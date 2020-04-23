@@ -1,5 +1,5 @@
 
-# about time amigo
+# About time amigo
 
 name of this repo is a reference to a movie by name "Fistfull of dollars"
 
@@ -10,15 +10,15 @@ and here we are
 
 ## usage
 
-python fistful.py {str file path} [+/-]{seconds}
+python fistful.py {srt file path} [+/-]{seconds}
 
 ## example
 
 shift 60 seconds forward
 ```console
-foo@bar:~$ python fistful.py sub.str +60
+foo@bar:~$ python fistful.py sub.srt +60
 ```
 or shift 60 seconds backward
 ```console
-foo@bar:~$ python fistful.py sub.str -60
+foo@bar:~$ python fistful.py sub.srt -60
 ```
