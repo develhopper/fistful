@@ -1,5 +1,5 @@
-
-# About time amigo
+# subtitle shifter
+## About time amigo
 
 name of this repo is a reference to a movie by name "Fistfull of dollars"
 
